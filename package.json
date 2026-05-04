@@ -1,7 +1,7 @@
 {
   "name": "auditflow-backend",
   "version": "1.0.0",
-  "description": "Backend SaaS financiero con pagos cripto",
+  "description": "Backend SaaS con pagos cripto",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
